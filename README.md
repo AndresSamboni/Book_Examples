@@ -1,4 +1,4 @@
-# <FONT COLOR = 'white'> **_REPOSITORY TO EXAMPLES OF CAICEDO'S BOOK_**</FONT>
+# <FONT COLOR = 'white'> 📚 **_REPOSITORY TO EXAMPLES OF CAICEDO'S BOOK_** 📚 </FONT>
 
 ---
 
@@ -8,3 +8,9 @@
 ---
 
 The repository contain the next structure:
+```plaintext
+Book_Examples/
+├── Examples/
+│   └── E1_VNF/
+|       └── E1_Q-Learning
+└── README.md
